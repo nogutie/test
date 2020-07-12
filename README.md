@@ -1,2 +1,2 @@
-# test
-Git Test Example - Following example in "Exploring BeagleBone" by Derek Molloy
+# Git Test
+Following example in "Exploring BeagleBone" by Derek Molloy
